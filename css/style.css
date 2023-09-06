@@ -1,0 +1,41 @@
+body{
+    background-image: url(../imagenes/fondo1.jpg);
+
+}
+.s1 a{
+    font-family: cursive;
+}
+.s2{
+    color: rgb(247, 248, 248);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(../imagenes/fondo10.jpg);
+}
+.s3{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.s3 p {
+    color: aliceblue;
+    text-align: center;
+    background-image: url(../imagenes/fondo10.jpg);
+}
+.card{
+    margin: 30px;
+}
+.card img{
+    width: 287px;
+}
+.carousel-inner{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.carousel-inner img{
+    margin: 50px auto;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    border-radius: 5px;
+
+}
